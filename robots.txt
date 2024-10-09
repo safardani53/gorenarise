@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gorenarise.pages.dev/sitemap.xml
